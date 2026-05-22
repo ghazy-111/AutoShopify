@@ -1,5 +1,13 @@
-aiohttp
+os
+re
+random
+json
+time
+threading
+concurrent.futures
+functools
+urllib.parse
 requests
-pyTelegramBotAPI
+telebot
+telebot.types
 flask
-gunicorn
